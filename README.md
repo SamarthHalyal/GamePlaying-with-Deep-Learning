@@ -15,6 +15,6 @@ in this implementation of mine i am making the ball pass through the hurdles th 
 this seperately on hurdle detection and the subject which is maked green by cv2 api.
 
 
-   ![Alt text](https://user-images.githubusercontent.com/12893395/34882447-9d30a768-f7dc-11e7-82de-9b8d4cc5430d.gif)
+   ![Alt text](https://user-images.githubusercontent.com/12893395/34882446-9cdfe508-f7dc-11e7-968d-52467c70db3e.gif)
 
 The game is also available in download.. but you may further implement the model on the game of your choice 
